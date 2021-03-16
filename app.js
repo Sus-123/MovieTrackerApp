@@ -35,5 +35,5 @@ app.get('*', (req, res)=>{
     res.send('404 not found')
 })
 app.listen(3000, ()=>{
-    console.log("Server has started")
+    console.log("Server has started at port 3000")
 })
