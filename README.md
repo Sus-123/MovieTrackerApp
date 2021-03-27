@@ -5,6 +5,7 @@ Tech Involved :  HTML, CSS, BOOTSTRAP, JAVASCRIPT, EJS, NODE JS .
 Node : I have used omdbapi to fetch every information about the movie . 
 
 Installation process : 
+
 Step 1: Clone this repo in you local machine . 
 
 
@@ -21,7 +22,7 @@ step 5 : Save the .env file and run node app.js .
 
 step 6 : open in browser : localhost : PORT_NO . 
 
-                                      You are good to Go !
+                                                  You are good to Go !
                                       
 Soon i will be hosting this web app on AWS !
 
