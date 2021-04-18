@@ -22,8 +22,8 @@ step 5 : Save the .env file and run node app.js .
 
 step 6 : open in browser : localhost : PORT_NO . 
 
-                                                  You are good to Go !
+                                               You are good to Go !
                                       
-Soon i will be hosting this web app on AWS !
+This website is hosted on this domain : http://imoviesushant.xyz
 
 Plese report any changes/problems you would like to see . 
